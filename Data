@@ -1,0 +1,8 @@
+Data
+
+The data used in this investigation will primarily come from two sources, Foursquare API and the Australian Bureau of Statistics (ABS). 
+The Foursquare API will provide information for suburb clustering and variety of venues within suburbs. 
+The ABS will provide information regarding population density, average resident salary, median house prices in different suburbs and other statistical information as necessary.
+
+Foursquare API data can be matched with ABS statistics to provide potential reasons for the clustering of inter-city and intra-city suburbs. 
+From this information, Adelaide suburbs that closely match Sydney suburbs can be found and used to suggest potential business opportunities in Adelaide that are not currently present.
