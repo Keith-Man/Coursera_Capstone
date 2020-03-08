@@ -1,0 +1,8 @@
+A Comparison of Urban and Suburbian Clusters in Adelaide and Sydney
+
+Introduction
+Compared to other Australian cities, Adelaide, despite being a state capital, is often considered a much less advanced city than other state capitals such as Sydney. This difference in perception can be attributed to multiple factors, including Adelaide's lesser urban development and commercialisation. 
+
+These perceived differences may cause many people and business to choose Sydney as their choice of city to work or do business in. But, is Adelaide really that different from Sydney and, if so, where do the key differences lie.
+
+This investigation intends to use Foursquare API data to cluster suburbs and analyse the clusters alongside other data such as population density and ethnicity to draw conclusions regarding the differences between Adelaide and Sydney. 
