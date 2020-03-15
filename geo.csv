@@ -1,4 +1,4 @@
-Postcode,City,State,Lat,Long
+Postcode,Suburb,State,Lat,Long
 '5000','Adelaide','SA',-34.930, 138.600
 '5000','Adelaide BC','SA',-34.930, 138.600
 '5000','City West Campus','SA',-34.930, 138.600
